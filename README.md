@@ -1,6 +1,7 @@
 # Learn365
 
-This repository contains all the information shared during my Learn 365 Challenge. Learn 365 is a challenge to keep the learning spirit going on and challenge myself to learn something daily for the whole year, it can be anything from infosec to general life. Follow me on Twitter for Regular Updates: [Harsh Bothra](https://twitter.com/harshbothra_). Huge thanks to [Mehedi Hasan Remon](https://twitter.com/remonsec), who originally created and maintained this repository. 
+This repository contains all the information shared during Learn 365 Challenge by Harsh Bothra. Learn 365 is a challenge to keep the learning spirit going on and challenge myself to learn something daily for the whole year, it can be anything from infosec to general life. 
+I wanted to tailor this awesome repo a bit (also I didn't understand many topics and wanted go through them myself :) ). I will enter my notes on the topics in respective folders every day starting from 23/6/2021. Kudos to Harsh and other contributors for this repo!!
 ___
 S.NO | Mind Map
 --- | ---
